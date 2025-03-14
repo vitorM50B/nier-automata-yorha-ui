@@ -19,8 +19,6 @@ nier-automata-yorha-ui/ ├── public/ │ └── index.html ├── src
 
 ---
 
-# Setup for the Project
-
 # Clone this repository using:
 git clone https://github.com/vitorM50B/nier-automata-yorha-ui.git
 
