@@ -22,7 +22,7 @@ nier-automata-yorha-ui/ ├── public/ │ └── index.html ├── src
 # Setup for the Project
 
 # Clone this repository using:
-git clone https://github.com/YOUR-USERNAME/nier-automata-yorha-ui.git
+git clone https://github.com/vitorM50B/nier-automata-yorha-ui.git
 
 # Change into the project directory:
 cd nier-automata-yorha-ui
