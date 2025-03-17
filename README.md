@@ -1,4 +1,8 @@
-# 🌐 NieR Automata Styled Weather App
+#  NieR Automata Styled Weather App
+
+![image](https://github.com/user-attachments/assets/5067287c-aea2-450f-81af-28f02399ba8d)
+
+
 
 This is a simplified Weather App, stylized to somewhat look like the UI used in NieR Automata.
 
