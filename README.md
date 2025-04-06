@@ -4,7 +4,7 @@
 
 
 
-This is a simplified Weather App, stylized to somewhat look like the UI used in NieR Automata.
+Simplified Weather App, based after the futuristic and clean look of the UI in Nier Automata.
 
 ---
 
@@ -14,6 +14,7 @@ Features
 -  Country flags are displayed next to the city name
 -  Simple Typewriter effect simulating a sci-fi terminal interface typing in real time
 -  Simplified NieR Automata-themed design.
+
 ---
 
 
